@@ -1,6 +1,6 @@
 # Desenvolvimento de uma modelagem de projeto voltado a gestão de dados de um centro universitário. 
 
-A modelagem do projeto foi pensando para uma melhor estruturação de uma gestão de dados de um centro universitário. Através dos conceitos de elaboração de projetos da UML foi desenvolvimento um protótipo capaz de representar o cadastro de diferentes tipos de pessoas em um sistema de universidade.
+A modelagem do projeto foi pensanda para uma melhor estruturação de uma gestão de dados de um centro universitário. Através dos conceitos de elaboração de projetos da UML foi desenvolvimento um protótipo capaz de representar o cadastro de diferentes tipos de pessoas em um sistema de universidade.
 
 O diagrama de casos de uso tem como função exemplificar como os usuários interagem com os sistemas e como usuários secundários se relacionam com outros usuários. O diagrama de classes serve de estrutura e para se observar a relação das classes que irão servir de modelo
 para objetos. 
