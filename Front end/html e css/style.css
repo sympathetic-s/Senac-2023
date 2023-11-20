@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    /*background: linear-gradient(90deg, rgb(37, 30, 30) 0%, rgb(107,85,85) 35%, rgb(146, 116, 116) 100%);*/
+    background-color: #6b5555;
+    margin: 0;
+    padding: 20px;
+  }
+
+h1 {
+    text-align: center;
+    color: #ffffff;;
+}
+.informativo2, .informativo1 {
+    font-size: 20px;
+    text-align: center;
+    margin: 18px;
+    padding: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form, .botaocadastro {
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    box-shadow: 08px 5px 5px black; /*Efeito de sobra no conteiner (<div>)*/
+    
+}
+label, select {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+  }
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+        
+}
+
+
+button {
+    background-color: #6b5555;
+    color: #ffffff;
+    padding: 08px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+    
+}
+    /*O ".botão", se refere a div onde esta a tag button*/
+.botao,{
+    
+    padding: 05px;
+    
+}
+
+.botao1 {
+    
+    padding: 05px;
+    
+}
+.sobre{
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    box-shadow: 08px 5px 5px black; /*Efeito de sobra no conteiner (<div>)*/
+}

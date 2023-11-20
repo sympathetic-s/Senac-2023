@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt - br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <!--<h1>Faça Login na sua conta</h1>-->
+    </div>
+    <!--LOGIN: CPF/ SENHA:-->
+    <form action="">   
+        
+        <!--<h2 class="informativo1">Acesse a página do aluno com o seu login e senha.</h2>-->
+
+        <p>Acesse a página do aluno com o seu login e senha.</p>
+
+        <label for="cep">Login</label>
+        <input type="text" id="idcpf" name="idcpf"required placeholder="CPF ou E-mail">
+
+        <label for="password">Senha</label>
+        <input type="password" id="idpassword" name="idpassword">
+        
+            <div class="botao">
+                <button>Entrar</button>
+                
+                
+            </div>
+            
+            
+    </form>
+    
+    <div class="botaocadastro">
+        <!--<h2 class="informativo2">Fassa seu cadastro aqui.</h2>-->
+        <p>Faça seu cadastro aqui.</p> 
+        <a href="file:///C:/Users/welli/Desktop/PTI%20-%20INTERFACE/INTERFACE.html?"><button >Cadastre-se</button></a>
+        <a href="file:///C:/Users/welli/Desktop/PTI%20-%20INTERFACE/CADASTRO%20PROFESSOR.html"><button >Sou professor</button></a>  
+    </div>
+    <div>
+        <a href="file:///C:/Users/welli/Desktop/PTI%20-%20INTERFACE/PAGINA%20INICIAL.html#about"><button >Página inicial</button></a>
+    </div>
+    
+</body>
+</html>
+
+<!--Juliane Mascarenhas Machado
+Marcelo Oliveira De Melo
+Raul Bernardo Torta Monteiro
+Rogerio Caldeira da Silva
+Samuel Cardoso Ferreira
+Wellington Brito dos Santos-->
