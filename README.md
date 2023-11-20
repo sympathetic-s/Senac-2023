@@ -30,7 +30,7 @@ para objetos.
 &nbsp;
 
 
-Através dos diagramas foi elaborado uma interface do trabalho utilizando html e css.
+Através dos diagramas foi elaborado uma interface do trabalho utilizando Html e CSS.
 
 &nbsp;
 
