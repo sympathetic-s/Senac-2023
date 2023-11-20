@@ -1,4 +1,4 @@
-# Desenvolvimento de modelagem de projeto voltado a gestão de dados de um centro universitário. 
+# Desenvolvimento de uma modelagem de projeto voltado a gestão de dados de um centro universitário. 
 
 A modelagem do projeto foi pensando para uma melhor estruturação de uma gestão de dados de um centro universitário. Através dos conceitos de elaboração de projetos da UML foi desenvolvimento um protótipo capaz de representar o cadastro de diferentes tipos de pessoas em um sistema de universidade.
 
